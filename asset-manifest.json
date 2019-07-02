@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5b3aa590.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6d94212d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6d94212d.chunk.js.map",
+    "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
+    "static/js/2.66c93e30.chunk.js": "/Portfolio/static/js/2.66c93e30.chunk.js",
+    "static/js/2.66c93e30.chunk.js.map": "/Portfolio/static/js/2.66c93e30.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.6fe7786cd1084208b0aa5db5a9dc58d2.js": "/Portfolio/precache-manifest.6fe7786cd1084208b0aa5db5a9dc58d2.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.5b3aa590.chunk.css.map": "/Portfolio/static/css/main.5b3aa590.chunk.css.map",
+    "static/media/aboutImage.JPG": "/Portfolio/static/media/aboutImage.5d63074e.JPG",
+    "static/media/beer1.PNG": "/Portfolio/static/media/beer1.0d51b61f.PNG",
+    "static/media/chillcrib.PNG": "/Portfolio/static/media/chillcrib.4604aa29.PNG",
+    "static/media/clm1.PNG": "/Portfolio/static/media/clm1.ceb334f0.PNG",
+    "static/media/clm2.PNG": "/Portfolio/static/media/clm2.c41d2b5a.PNG",
+    "static/media/clm3.PNG": "/Portfolio/static/media/clm3.db778e1a.PNG",
+    "static/media/clmbookins.PNG": "/Portfolio/static/media/clmbookins.c200b617.PNG",
+    "static/media/clmdone.PNG": "/Portfolio/static/media/clmdone.2bdba159.PNG",
+    "static/media/clmdone2.PNG": "/Portfolio/static/media/clmdone2.380011b2.PNG",
+    "static/media/flexapproval.PNG": "/Portfolio/static/media/flexapproval.cbeab4ce.PNG",
+    "static/media/flexapproval2.PNG": "/Portfolio/static/media/flexapproval2.2ffbe47e.PNG",
+    "static/media/flexcourses.PNG": "/Portfolio/static/media/flexcourses.3899cd8d.PNG",
+    "static/media/flexcreate.PNG": "/Portfolio/static/media/flexcreate.c82ed48a.PNG",
+    "static/media/flexmember.PNG": "/Portfolio/static/media/flexmember.5edfd751.PNG",
+    "static/media/flexmember1.PNG": "/Portfolio/static/media/flexmember1.03e1ad98.PNG",
+    "static/media/flexwithdraw.PNG": "/Portfolio/static/media/flexwithdraw.3320532d.PNG",
+    "static/media/me.png": "/Portfolio/static/media/me.25d7ebf6.png",
+    "static/media/resumejeffrey.pdf": "/Portfolio/static/media/resumejeffrey.e3023634.pdf"
+  }
+}
