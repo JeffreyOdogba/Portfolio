@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d03e3e93067ad097ed21c76f02d29249",
+    "revision": "567bc064b86bf4167a2101eae677a21b",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "0af7280679c883497294",
-    "url": "/Portfolio/static/css/main.d8ca63ba.chunk.css"
+    "revision": "424c82bf8ddcd1f7d137",
+    "url": "/Portfolio/static/css/main.fad8ef8e.chunk.css"
   },
   {
-    "revision": "01996b8c63662b6232ce",
-    "url": "/Portfolio/static/js/2.e0a62b2e.chunk.js"
+    "revision": "9de156ef8f032d67fc00",
+    "url": "/Portfolio/static/js/2.1f6f0c3e.chunk.js"
   },
   {
-    "revision": "0af7280679c883497294",
-    "url": "/Portfolio/static/js/main.9d565704.chunk.js"
+    "revision": "424c82bf8ddcd1f7d137",
+    "url": "/Portfolio/static/js/main.caac46a7.chunk.js"
   },
   {
     "revision": "6b64d540f1308ee928ad",
     "url": "/Portfolio/static/js/runtime~main.132fbc8c.js"
   },
   {
-    "revision": "5d63074ed55a9c50db3278265271b671",
-    "url": "/Portfolio/static/media/aboutImage.5d63074e.JPG"
+    "revision": "16c0906390785e514048ac1db1f22b0a",
+    "url": "/Portfolio/static/media/aboutImage.16c09063.jpg"
   },
   {
     "revision": "0d51b61fe308aafe34b08b5c00272764",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/clmdone2.380011b2.PNG"
   },
   {
+    "revision": "78ff58a1209aeb7433467a77383ffeb7",
+    "url": "/Portfolio/static/media/estate.78ff58a1.PNG"
+  },
+  {
     "revision": "cbeab4cef56a158c21742d33a189de05",
     "url": "/Portfolio/static/media/flexapproval.cbeab4ce.PNG"
   },
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3320532d9a93e9cf05351c35d679b2ce",
     "url": "/Portfolio/static/media/flexwithdraw.3320532d.PNG"
+  },
+  {
+    "revision": "20f40134bd0b0f0a65a1a3114782af9e",
+    "url": "/Portfolio/static/media/hangman.20f40134.PNG"
   },
   {
     "revision": "8a520ce1a9a3f8e1643933198728b066",
